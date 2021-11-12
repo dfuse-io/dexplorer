@@ -1,6 +1,6 @@
 {
   "name": "@dfuse/explorer",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Common library for dfuse blockchain explorers",
   "main": "dist/lib/index.js",
   "typings": "dist/types/index.d.ts",
@@ -29,7 +29,7 @@
     "postversion": "node scripts/gh-push.js"
   },
   "dependencies": {
-    "@dfuse/client": "^0.3.10",
+    "@dfuse/client": "^0.3.21",
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-brands-svg-icons": "^5.13.1",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
