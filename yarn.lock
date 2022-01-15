@@ -205,10 +205,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dfuse/client@^0.3.10":
-  version "0.3.10"
-  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.10.tgz#b644808ffe6a4023e0a668a43a2fcda8af406451"
-  integrity sha512-nNI1sG6QpyEefY3lJPOCX/tOGFHd4Y9nqudNb9P2a05E5Y7UvR5/qaloSe1NteddyKv68fpTFEodYjg6HJj0uA==
+"@dfuse/client@^0.3.21":
+  version "0.3.21"
+  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.21.tgz#4c292337bfa72e98a63dba621a923bc1f6992850"
+  integrity sha512-pJu+XEzBx8gEVaZaYNnUnwSMohKEQkpV9Iiz4w5myS80Vm/NAwcUcDaG/csqRpWTIw/tlD6VrHZDXoevPFgtsg==
   dependencies:
     "@types/debug" "^0.0.31"
     debug "^4.1.0"
@@ -2834,9 +2834,9 @@ shebang-regex@^3.0.0:
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
 shelljs@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.4.tgz#de7684feeb767f8716b326078a8a00875890e3c2"
-  integrity sha512-7gk3UZ9kOfPLIAbslLzyWeGiEqx9e3rxwZM0KE6EL8GlGwjym9Mrlx5/p33bWTu9YG6vcS4MBxYZDHYr5lr8BQ==
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.5.tgz#de055408d8361bed66c669d2f000538ced8ee20c"
+  integrity sha512-TiwcRcrkhHvbrZbnRcFYMLl30Dfov3HKqzp5tO5b4pt6G/SezKcYhmDg15zXVBswHmctSAQKznqNW2LO5tTDow==
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
