@@ -205,10 +205,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dfuse/client@^0.3.10":
-  version "0.3.10"
-  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.10.tgz#b644808ffe6a4023e0a668a43a2fcda8af406451"
-  integrity sha512-nNI1sG6QpyEefY3lJPOCX/tOGFHd4Y9nqudNb9P2a05E5Y7UvR5/qaloSe1NteddyKv68fpTFEodYjg6HJj0uA==
+"@dfuse/client@^0.3.21":
+  version "0.3.21"
+  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.21.tgz#4c292337bfa72e98a63dba621a923bc1f6992850"
+  integrity sha512-pJu+XEzBx8gEVaZaYNnUnwSMohKEQkpV9Iiz4w5myS80Vm/NAwcUcDaG/csqRpWTIw/tlD6VrHZDXoevPFgtsg==
   dependencies:
     "@types/debug" "^0.0.31"
     debug "^4.1.0"
@@ -2032,9 +2032,9 @@ moment-duration-format@^2.3.2:
   integrity sha512-cBMXjSW+fjOb4tyaVHuaVE/A5TqkukDWiOfxxAjY+PEqmmBQlLwn+8OzwPiG3brouXKY5Un4pBjAeB6UToXHaQ==
 
 moment-timezone@^0.5.31:
-  version "0.5.31"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.31.tgz#9c40d8c5026f0c7ab46eda3d63e49c155148de05"
-  integrity sha512-+GgHNg8xRhMXfEbv81iDtrVeTcWt0kWmTEY1XQK14dICTXnWJnT0dxdlPspwqF3keKMVPXwayEsk1DI0AA/jdA==
+  version "0.5.35"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.35.tgz#6fa2631bdbe8ff04f6b8753f7199516be6dc9839"
+  integrity sha512-cY/pBOEXepQvlgli06ttCTKcIf8cD1nmNwOKQQAdHBqYApQSpAqotBMX0RJZNgMp6i0PlZuf1mFtnlyEkwyvFw==
   dependencies:
     moment ">= 2.9.0"
 
