@@ -205,10 +205,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dfuse/client@^0.3.10":
-  version "0.3.10"
-  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.10.tgz#b644808ffe6a4023e0a668a43a2fcda8af406451"
-  integrity sha512-nNI1sG6QpyEefY3lJPOCX/tOGFHd4Y9nqudNb9P2a05E5Y7UvR5/qaloSe1NteddyKv68fpTFEodYjg6HJj0uA==
+"@dfuse/client@^0.3.21":
+  version "0.3.21"
+  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.21.tgz#4c292337bfa72e98a63dba621a923bc1f6992850"
+  integrity sha512-pJu+XEzBx8gEVaZaYNnUnwSMohKEQkpV9Iiz4w5myS80Vm/NAwcUcDaG/csqRpWTIw/tlD6VrHZDXoevPFgtsg==
   dependencies:
     "@types/debug" "^0.0.31"
     debug "^4.1.0"
@@ -2008,9 +2008,9 @@ mini-store@^3.0.1:
     shallowequal "^1.0.2"
 
 minimatch@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
-  integrity sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.2.tgz#19cd194bfd3e428f049a70817c038d89ab4be35b"
+  integrity sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==
   dependencies:
     brace-expansion "^1.1.7"
 
