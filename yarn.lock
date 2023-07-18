@@ -205,10 +205,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dfuse/client@^0.3.10":
-  version "0.3.10"
-  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.10.tgz#b644808ffe6a4023e0a668a43a2fcda8af406451"
-  integrity sha512-nNI1sG6QpyEefY3lJPOCX/tOGFHd4Y9nqudNb9P2a05E5Y7UvR5/qaloSe1NteddyKv68fpTFEodYjg6HJj0uA==
+"@dfuse/client@^0.3.21":
+  version "0.3.21"
+  resolved "https://registry.yarnpkg.com/@dfuse/client/-/client-0.3.21.tgz#4c292337bfa72e98a63dba621a923bc1f6992850"
+  integrity sha512-pJu+XEzBx8gEVaZaYNnUnwSMohKEQkpV9Iiz4w5myS80Vm/NAwcUcDaG/csqRpWTIw/tlD6VrHZDXoevPFgtsg==
   dependencies:
     "@types/debug" "^0.0.31"
     debug "^4.1.0"
@@ -3169,9 +3169,9 @@ which@^2.0.1:
     isexe "^2.0.0"
 
 word-wrap@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
-  integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.4.tgz#cb4b50ec9aca570abd1f52f33cd45b6c61739a9f"
+  integrity sha512-2V81OA4ugVo5pRo46hAoD2ivUJx8jXmWXfUkY4KFNw0hEptvN0QfH3K4nHiwzGeKl5rFKedV48QVoqYavy4YpA==
 
 wrappy@1:
   version "1.0.2"
